@@ -28,7 +28,7 @@ body{
 }
 .escola{
     background-image: linear-gradient( rgb(209, 36, 36), rgb(247, 194, 201));
-    color:white;
+    color:hwb(0 100% 0%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,4 +71,7 @@ width: 35%;
 }
 .estudante-icone:hover{
     transform: scale(1.2);
+}
+.cabeçalho-lista-item-Escola:hover{
+    transform: scale(1.2)
 }
