@@ -88,3 +88,6 @@ body{
     display: flex;
     flex-direction: row;
 }
+.estudante-icone:hover{
+    transform: scale(1.2);
+}
